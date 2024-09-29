@@ -45,6 +45,11 @@ section {
   align-items: center;
 }
 
+.image {
+  width: 50vw;
+  height: 70vh;
+}
+
 .url-input {
   padding: 0.5rem;
   margin: 1rem 0;
